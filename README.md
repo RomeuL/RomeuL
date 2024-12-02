@@ -7,10 +7,15 @@ Sou estudante de Ciência da Computação apaixonado por tecnologia e desenvolvi
 🛠️ Tecnologias e Ferramentas
 
 Python: Desenvolvimento de scripts, automação e análise de dados.
+
 Java (Spring Boot): Construção de aplicações robustas e escaláveis.
+
 Maven: Gerenciamento de dependências e construção de projetos Java.
+
 Git/GitHub: Controle de versão e colaboração em projetos.
+
 Docker: Containerização de aplicações.
+
 PostgreSQL/MySQL: Banco de dados relacionais.
 
 📫 Contato
@@ -32,10 +37,15 @@ I'm a Computer Science student passionate about technology and software developm
 🛠️ Technologies & Tools
 
 Python: Scripting, automation, and data analysis.
+
 Java (Spring Boot): Building robust and scalable applications.
+
 Maven: Dependency management and project build automation for Java.
+
 Git/GitHub: Version control and project collaboration.
+
 Docker: Application containerization.
+
 PostgreSQL/MySQL: Relational databases.
 
 📫 Contact
