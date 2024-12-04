@@ -2,7 +2,7 @@ Olá! Eu sou o Romeu Lucas 👨‍💻
 
 👋 Sobre mim
 
-Sou estudante de Ciência da Computação apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Tenho experiência com Python e Java (Spring Boot com Maven), e gosto de trabalhar em projetos desafiadores que me permitam aplicar e expandir meus conhecimentos.
+Sou estudante de Ciência da Computação apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 🛠️ Tecnologias e Ferramentas
 
